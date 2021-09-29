@@ -24,7 +24,6 @@ namespace igierhan1730ex1b
 
         private void button1_Click(object sender, EventArgs e)
         {
-           
             txtDiscountAmount.Text = 
                 (Convert.ToDecimal(txtSubtotal.Text) 
                 * Convert.ToDecimal(txtDiscountPercent.Text) / 100).ToString("0.00");
