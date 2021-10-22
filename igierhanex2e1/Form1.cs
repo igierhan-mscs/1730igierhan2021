@@ -38,13 +38,13 @@ namespace igierhanex2e1
             // #01
             decimal subtotal = Convert.ToDecimal(input01aTextBox.Text);
             result01TextBox.Text = (
-                    subtotal >= 250 && subtotal < 500
+                    LogicalOperations.q01(subtotal)
                 ).ToString();
-
+            
             // #02
             int timeInService = Convert.ToInt32(input02aTextBox.Text);
             result02TextBox.Text = (
-                    timeInService <= 4 || timeInService >= 12
+                    LogicalOperations.q02(timeInService)
                 ).ToString();
 
             // #03 - 06 initialization
@@ -54,28 +54,28 @@ namespace igierhanex2e1
             // #03
             int counter = Convert.ToInt32(input03bTextBox.Text);
             result03TextBox.Text = (
-                    isValid == true && counter++ < years
+                    LogicalOperations.q03(isValid, years, counter)
                 ).ToString();
             result03bTextBox.Text = counter.ToString();
 
             // #04
             counter = Convert.ToInt32(input03bTextBox.Text);
             result04TextBox.Text = (
-                    isValid == true & counter++ < years
+                    LogicalOperations.q04(isValid, years, counter)
                 ).ToString();
             result04bTextBox.Text = counter.ToString();
 
             // #05
             counter = Convert.ToInt32(input03bTextBox.Text);
             result05TextBox.Text = (
-                    isValid == true || counter++ < years
+                    LogicalOperations.q05(isValid, years, counter)
                 ).ToString();
             result05bTextBox.Text = counter.ToString();
 
             // #06
             counter = Convert.ToInt32(input03bTextBox.Text);
             result06TextBox.Text = (
-                    isValid == true | counter++ < years
+                    LogicalOperations.q06(isValid, years, counter)
                 ).ToString();
             result06bTextBox.Text = counter.ToString();
 
@@ -85,7 +85,7 @@ namespace igierhanex2e1
             DateTime date = Convert.ToDateTime(input07cTextBox.Text);
             isValid = Convert.ToBoolean(input07dTextBox.Text);
             result07TextBox.Text = (
-                    date > startDate && date < expirationDate || isValid == true
+                    LogicalOperations.q07(startDate, expirationDate, date, isValid)
                 ).ToString();
 
             // #08
@@ -95,14 +95,14 @@ namespace igierhanex2e1
             int startYear = Convert.ToInt32(input08dTextBox.Text);
             int currentYear = Convert.ToInt32(input08eTextBox.Text);
             result08TextBox.Text = (
-                    ((thisYTD > lastYTD) || empType == "Part time") && startYear < currentYear
+                    LogicalOperations.q08(thisYTD, lastYTD, empType, startYear, currentYear)
                 ).ToString();
 
             // #09
             counter = Convert.ToInt32(input09aTextBox.Text);
             years = Convert.ToInt32(input09bTextBox.Text);
             result09TextBox.Text = (
-                    !(counter++ >= years)
+                    LogicalOperations.q09(counter, years)
                 ).ToString();
             result09bTextBox.Text = counter.ToString();
 
@@ -112,7 +112,7 @@ namespace igierhanex2e1
             int c = Convert.ToInt32(input10cTextBox.Text);
             int d = Convert.ToInt32(input10dTextBox.Text);
             result10TextBox.Text = (
-                    a > b && b < c || c < d
+                    LogicalOperations.q10(a, b, c, d)
                 ).ToString();
         }
     }

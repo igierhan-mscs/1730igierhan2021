@@ -81,7 +81,7 @@ namespace igierhanex2e1
             // 
             // input01aTextBox
             // 
-            this.input01aTextBox.Location = new System.Drawing.Point(52, 34);
+            this.input01aTextBox.Location = new System.Drawing.Point(54, 64);
             this.input01aTextBox.Name = "input01aTextBox";
             this.input01aTextBox.Size = new System.Drawing.Size(100, 22);
             this.input01aTextBox.TabIndex = 0;
@@ -90,7 +90,7 @@ namespace igierhanex2e1
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(17, 37);
+            this.label1.Location = new System.Drawing.Point(19, 67);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(28, 17);
             this.label1.TabIndex = 1;
@@ -99,7 +99,7 @@ namespace igierhanex2e1
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(626, 9);
+            this.label2.Location = new System.Drawing.Point(581, 39);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(48, 17);
             this.label2.TabIndex = 2;
@@ -108,7 +108,7 @@ namespace igierhanex2e1
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(790, 9);
+            this.label3.Location = new System.Drawing.Point(745, 39);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(75, 17);
             this.label3.TabIndex = 3;
@@ -116,7 +116,7 @@ namespace igierhanex2e1
             // 
             // result01TextBox
             // 
-            this.result01TextBox.Location = new System.Drawing.Point(629, 34);
+            this.result01TextBox.Location = new System.Drawing.Point(584, 64);
             this.result01TextBox.Name = "result01TextBox";
             this.result01TextBox.ReadOnly = true;
             this.result01TextBox.Size = new System.Drawing.Size(139, 22);
@@ -125,7 +125,7 @@ namespace igierhanex2e1
             // 
             // buttonCalc
             // 
-            this.buttonCalc.Location = new System.Drawing.Point(370, 412);
+            this.buttonCalc.Location = new System.Drawing.Point(372, 403);
             this.buttonCalc.Name = "buttonCalc";
             this.buttonCalc.Size = new System.Drawing.Size(100, 26);
             this.buttonCalc.TabIndex = 5;
@@ -135,7 +135,7 @@ namespace igierhanex2e1
             // 
             // result02TextBox
             // 
-            this.result02TextBox.Location = new System.Drawing.Point(629, 62);
+            this.result02TextBox.Location = new System.Drawing.Point(584, 92);
             this.result02TextBox.Name = "result02TextBox";
             this.result02TextBox.ReadOnly = true;
             this.result02TextBox.Size = new System.Drawing.Size(139, 22);
@@ -145,7 +145,7 @@ namespace igierhanex2e1
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(17, 65);
+            this.label4.Location = new System.Drawing.Point(19, 95);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(28, 17);
             this.label4.TabIndex = 7;
@@ -153,7 +153,7 @@ namespace igierhanex2e1
             // 
             // input02aTextBox
             // 
-            this.input02aTextBox.Location = new System.Drawing.Point(52, 62);
+            this.input02aTextBox.Location = new System.Drawing.Point(54, 92);
             this.input02aTextBox.Name = "input02aTextBox";
             this.input02aTextBox.Size = new System.Drawing.Size(100, 22);
             this.input02aTextBox.TabIndex = 6;
@@ -161,7 +161,7 @@ namespace igierhanex2e1
             // 
             // result03TextBox
             // 
-            this.result03TextBox.Location = new System.Drawing.Point(629, 90);
+            this.result03TextBox.Location = new System.Drawing.Point(584, 120);
             this.result03TextBox.Name = "result03TextBox";
             this.result03TextBox.ReadOnly = true;
             this.result03TextBox.Size = new System.Drawing.Size(139, 22);
@@ -171,7 +171,7 @@ namespace igierhanex2e1
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(17, 93);
+            this.label5.Location = new System.Drawing.Point(19, 123);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(28, 17);
             this.label5.TabIndex = 10;
@@ -179,7 +179,7 @@ namespace igierhanex2e1
             // 
             // input03aTextBox
             // 
-            this.input03aTextBox.Location = new System.Drawing.Point(52, 90);
+            this.input03aTextBox.Location = new System.Drawing.Point(54, 120);
             this.input03aTextBox.Name = "input03aTextBox";
             this.input03aTextBox.Size = new System.Drawing.Size(100, 22);
             this.input03aTextBox.TabIndex = 9;
@@ -187,7 +187,7 @@ namespace igierhanex2e1
             // 
             // input03bTextBox
             // 
-            this.input03bTextBox.Location = new System.Drawing.Point(158, 90);
+            this.input03bTextBox.Location = new System.Drawing.Point(160, 120);
             this.input03bTextBox.Name = "input03bTextBox";
             this.input03bTextBox.Size = new System.Drawing.Size(100, 22);
             this.input03bTextBox.TabIndex = 12;
@@ -195,7 +195,7 @@ namespace igierhanex2e1
             // 
             // input03cTextBox
             // 
-            this.input03cTextBox.Location = new System.Drawing.Point(264, 90);
+            this.input03cTextBox.Location = new System.Drawing.Point(266, 120);
             this.input03cTextBox.Name = "input03cTextBox";
             this.input03cTextBox.Size = new System.Drawing.Size(100, 22);
             this.input03cTextBox.TabIndex = 13;
@@ -203,7 +203,7 @@ namespace igierhanex2e1
             // 
             // result03bTextBox
             // 
-            this.result03bTextBox.Location = new System.Drawing.Point(774, 90);
+            this.result03bTextBox.Location = new System.Drawing.Point(729, 120);
             this.result03bTextBox.Name = "result03bTextBox";
             this.result03bTextBox.ReadOnly = true;
             this.result03bTextBox.Size = new System.Drawing.Size(139, 22);
@@ -212,7 +212,7 @@ namespace igierhanex2e1
             // 
             // result04bTextBox
             // 
-            this.result04bTextBox.Location = new System.Drawing.Point(774, 118);
+            this.result04bTextBox.Location = new System.Drawing.Point(729, 148);
             this.result04bTextBox.Name = "result04bTextBox";
             this.result04bTextBox.ReadOnly = true;
             this.result04bTextBox.Size = new System.Drawing.Size(139, 22);
@@ -221,7 +221,7 @@ namespace igierhanex2e1
             // 
             // result04TextBox
             // 
-            this.result04TextBox.Location = new System.Drawing.Point(629, 118);
+            this.result04TextBox.Location = new System.Drawing.Point(584, 148);
             this.result04TextBox.Name = "result04TextBox";
             this.result04TextBox.ReadOnly = true;
             this.result04TextBox.Size = new System.Drawing.Size(139, 22);
@@ -231,7 +231,7 @@ namespace igierhanex2e1
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(17, 121);
+            this.label6.Location = new System.Drawing.Point(19, 151);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(28, 17);
             this.label6.TabIndex = 16;
@@ -239,7 +239,7 @@ namespace igierhanex2e1
             // 
             // result05bTextBox
             // 
-            this.result05bTextBox.Location = new System.Drawing.Point(774, 146);
+            this.result05bTextBox.Location = new System.Drawing.Point(729, 176);
             this.result05bTextBox.Name = "result05bTextBox";
             this.result05bTextBox.ReadOnly = true;
             this.result05bTextBox.Size = new System.Drawing.Size(139, 22);
@@ -248,7 +248,7 @@ namespace igierhanex2e1
             // 
             // result05TextBox
             // 
-            this.result05TextBox.Location = new System.Drawing.Point(629, 146);
+            this.result05TextBox.Location = new System.Drawing.Point(584, 176);
             this.result05TextBox.Name = "result05TextBox";
             this.result05TextBox.ReadOnly = true;
             this.result05TextBox.Size = new System.Drawing.Size(139, 22);
@@ -258,7 +258,7 @@ namespace igierhanex2e1
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(17, 149);
+            this.label7.Location = new System.Drawing.Point(19, 179);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(28, 17);
             this.label7.TabIndex = 21;
@@ -266,7 +266,7 @@ namespace igierhanex2e1
             // 
             // result06bTextBox
             // 
-            this.result06bTextBox.Location = new System.Drawing.Point(774, 174);
+            this.result06bTextBox.Location = new System.Drawing.Point(729, 204);
             this.result06bTextBox.Name = "result06bTextBox";
             this.result06bTextBox.ReadOnly = true;
             this.result06bTextBox.Size = new System.Drawing.Size(139, 22);
@@ -275,7 +275,7 @@ namespace igierhanex2e1
             // 
             // result06TextBox
             // 
-            this.result06TextBox.Location = new System.Drawing.Point(629, 174);
+            this.result06TextBox.Location = new System.Drawing.Point(584, 204);
             this.result06TextBox.Name = "result06TextBox";
             this.result06TextBox.ReadOnly = true;
             this.result06TextBox.Size = new System.Drawing.Size(139, 22);
@@ -285,7 +285,7 @@ namespace igierhanex2e1
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(17, 177);
+            this.label8.Location = new System.Drawing.Point(19, 207);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(28, 17);
             this.label8.TabIndex = 24;
@@ -293,7 +293,7 @@ namespace igierhanex2e1
             // 
             // input10bTextBox
             // 
-            this.input10bTextBox.Location = new System.Drawing.Point(158, 286);
+            this.input10bTextBox.Location = new System.Drawing.Point(160, 316);
             this.input10bTextBox.Name = "input10bTextBox";
             this.input10bTextBox.Size = new System.Drawing.Size(100, 22);
             this.input10bTextBox.TabIndex = 30;
@@ -301,7 +301,7 @@ namespace igierhanex2e1
             // 
             // result10TextBox
             // 
-            this.result10TextBox.Location = new System.Drawing.Point(629, 286);
+            this.result10TextBox.Location = new System.Drawing.Point(584, 316);
             this.result10TextBox.Name = "result10TextBox";
             this.result10TextBox.ReadOnly = true;
             this.result10TextBox.Size = new System.Drawing.Size(139, 22);
@@ -311,7 +311,7 @@ namespace igierhanex2e1
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(17, 289);
+            this.label9.Location = new System.Drawing.Point(19, 319);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(28, 17);
             this.label9.TabIndex = 28;
@@ -319,7 +319,7 @@ namespace igierhanex2e1
             // 
             // input10aTextBox
             // 
-            this.input10aTextBox.Location = new System.Drawing.Point(52, 286);
+            this.input10aTextBox.Location = new System.Drawing.Point(54, 316);
             this.input10aTextBox.Name = "input10aTextBox";
             this.input10aTextBox.Size = new System.Drawing.Size(100, 22);
             this.input10aTextBox.TabIndex = 27;
@@ -327,7 +327,7 @@ namespace igierhanex2e1
             // 
             // input10cTextBox
             // 
-            this.input10cTextBox.Location = new System.Drawing.Point(264, 286);
+            this.input10cTextBox.Location = new System.Drawing.Point(266, 316);
             this.input10cTextBox.Name = "input10cTextBox";
             this.input10cTextBox.Size = new System.Drawing.Size(100, 22);
             this.input10cTextBox.TabIndex = 31;
@@ -335,7 +335,7 @@ namespace igierhanex2e1
             // 
             // input10dTextBox
             // 
-            this.input10dTextBox.Location = new System.Drawing.Point(370, 286);
+            this.input10dTextBox.Location = new System.Drawing.Point(372, 316);
             this.input10dTextBox.Name = "input10dTextBox";
             this.input10dTextBox.Size = new System.Drawing.Size(100, 22);
             this.input10dTextBox.TabIndex = 32;
@@ -343,7 +343,7 @@ namespace igierhanex2e1
             // 
             // input08dTextBox
             // 
-            this.input08dTextBox.Location = new System.Drawing.Point(370, 230);
+            this.input08dTextBox.Location = new System.Drawing.Point(372, 260);
             this.input08dTextBox.Name = "input08dTextBox";
             this.input08dTextBox.Size = new System.Drawing.Size(100, 22);
             this.input08dTextBox.TabIndex = 38;
@@ -351,7 +351,7 @@ namespace igierhanex2e1
             // 
             // input08cTextBox
             // 
-            this.input08cTextBox.Location = new System.Drawing.Point(264, 230);
+            this.input08cTextBox.Location = new System.Drawing.Point(266, 260);
             this.input08cTextBox.Name = "input08cTextBox";
             this.input08cTextBox.Size = new System.Drawing.Size(100, 22);
             this.input08cTextBox.TabIndex = 37;
@@ -359,7 +359,7 @@ namespace igierhanex2e1
             // 
             // input08bTextBox
             // 
-            this.input08bTextBox.Location = new System.Drawing.Point(158, 230);
+            this.input08bTextBox.Location = new System.Drawing.Point(160, 260);
             this.input08bTextBox.Name = "input08bTextBox";
             this.input08bTextBox.Size = new System.Drawing.Size(100, 22);
             this.input08bTextBox.TabIndex = 36;
@@ -367,7 +367,7 @@ namespace igierhanex2e1
             // 
             // result08TextBox
             // 
-            this.result08TextBox.Location = new System.Drawing.Point(629, 230);
+            this.result08TextBox.Location = new System.Drawing.Point(584, 260);
             this.result08TextBox.Name = "result08TextBox";
             this.result08TextBox.ReadOnly = true;
             this.result08TextBox.Size = new System.Drawing.Size(139, 22);
@@ -377,7 +377,7 @@ namespace igierhanex2e1
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(17, 233);
+            this.label10.Location = new System.Drawing.Point(19, 263);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(28, 17);
             this.label10.TabIndex = 34;
@@ -385,7 +385,7 @@ namespace igierhanex2e1
             // 
             // input08aTextBox
             // 
-            this.input08aTextBox.Location = new System.Drawing.Point(52, 230);
+            this.input08aTextBox.Location = new System.Drawing.Point(54, 260);
             this.input08aTextBox.Name = "input08aTextBox";
             this.input08aTextBox.Size = new System.Drawing.Size(100, 22);
             this.input08aTextBox.TabIndex = 33;
@@ -393,7 +393,7 @@ namespace igierhanex2e1
             // 
             // input08eTextBox
             // 
-            this.input08eTextBox.Location = new System.Drawing.Point(476, 230);
+            this.input08eTextBox.Location = new System.Drawing.Point(478, 260);
             this.input08eTextBox.Name = "input08eTextBox";
             this.input08eTextBox.Size = new System.Drawing.Size(100, 22);
             this.input08eTextBox.TabIndex = 39;
@@ -401,7 +401,7 @@ namespace igierhanex2e1
             // 
             // result09bTextBox
             // 
-            this.result09bTextBox.Location = new System.Drawing.Point(774, 258);
+            this.result09bTextBox.Location = new System.Drawing.Point(729, 288);
             this.result09bTextBox.Name = "result09bTextBox";
             this.result09bTextBox.ReadOnly = true;
             this.result09bTextBox.Size = new System.Drawing.Size(139, 22);
@@ -410,7 +410,7 @@ namespace igierhanex2e1
             // 
             // input09bTextBox
             // 
-            this.input09bTextBox.Location = new System.Drawing.Point(158, 258);
+            this.input09bTextBox.Location = new System.Drawing.Point(160, 288);
             this.input09bTextBox.Name = "input09bTextBox";
             this.input09bTextBox.Size = new System.Drawing.Size(100, 22);
             this.input09bTextBox.TabIndex = 43;
@@ -418,7 +418,7 @@ namespace igierhanex2e1
             // 
             // result09TextBox
             // 
-            this.result09TextBox.Location = new System.Drawing.Point(629, 258);
+            this.result09TextBox.Location = new System.Drawing.Point(584, 288);
             this.result09TextBox.Name = "result09TextBox";
             this.result09TextBox.ReadOnly = true;
             this.result09TextBox.Size = new System.Drawing.Size(139, 22);
@@ -428,7 +428,7 @@ namespace igierhanex2e1
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(17, 261);
+            this.label11.Location = new System.Drawing.Point(19, 291);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(28, 17);
             this.label11.TabIndex = 41;
@@ -436,7 +436,7 @@ namespace igierhanex2e1
             // 
             // input09aTextBox
             // 
-            this.input09aTextBox.Location = new System.Drawing.Point(52, 258);
+            this.input09aTextBox.Location = new System.Drawing.Point(54, 288);
             this.input09aTextBox.Name = "input09aTextBox";
             this.input09aTextBox.Size = new System.Drawing.Size(100, 22);
             this.input09aTextBox.TabIndex = 40;
@@ -444,7 +444,7 @@ namespace igierhanex2e1
             // 
             // input07dTextBox
             // 
-            this.input07dTextBox.Location = new System.Drawing.Point(370, 202);
+            this.input07dTextBox.Location = new System.Drawing.Point(372, 232);
             this.input07dTextBox.Name = "input07dTextBox";
             this.input07dTextBox.Size = new System.Drawing.Size(100, 22);
             this.input07dTextBox.TabIndex = 51;
@@ -452,7 +452,7 @@ namespace igierhanex2e1
             // 
             // input07cTextBox
             // 
-            this.input07cTextBox.Location = new System.Drawing.Point(264, 202);
+            this.input07cTextBox.Location = new System.Drawing.Point(266, 232);
             this.input07cTextBox.Name = "input07cTextBox";
             this.input07cTextBox.Size = new System.Drawing.Size(100, 22);
             this.input07cTextBox.TabIndex = 50;
@@ -460,7 +460,7 @@ namespace igierhanex2e1
             // 
             // input07bTextBox
             // 
-            this.input07bTextBox.Location = new System.Drawing.Point(158, 202);
+            this.input07bTextBox.Location = new System.Drawing.Point(160, 232);
             this.input07bTextBox.Name = "input07bTextBox";
             this.input07bTextBox.Size = new System.Drawing.Size(100, 22);
             this.input07bTextBox.TabIndex = 49;
@@ -468,7 +468,7 @@ namespace igierhanex2e1
             // 
             // result07TextBox
             // 
-            this.result07TextBox.Location = new System.Drawing.Point(629, 202);
+            this.result07TextBox.Location = new System.Drawing.Point(584, 232);
             this.result07TextBox.Name = "result07TextBox";
             this.result07TextBox.ReadOnly = true;
             this.result07TextBox.Size = new System.Drawing.Size(139, 22);
@@ -478,7 +478,7 @@ namespace igierhanex2e1
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(17, 205);
+            this.label12.Location = new System.Drawing.Point(19, 235);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(28, 17);
             this.label12.TabIndex = 47;
@@ -486,7 +486,7 @@ namespace igierhanex2e1
             // 
             // input07aTextBox
             // 
-            this.input07aTextBox.Location = new System.Drawing.Point(52, 202);
+            this.input07aTextBox.Location = new System.Drawing.Point(54, 232);
             this.input07aTextBox.Name = "input07aTextBox";
             this.input07aTextBox.Size = new System.Drawing.Size(100, 22);
             this.input07aTextBox.TabIndex = 46;
@@ -496,7 +496,7 @@ namespace igierhanex2e1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(930, 450);
+            this.ClientSize = new System.Drawing.Size(901, 450);
             this.Controls.Add(this.input07dTextBox);
             this.Controls.Add(this.input07cTextBox);
             this.Controls.Add(this.input07bTextBox);
