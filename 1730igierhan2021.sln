@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igierhanex2e1", "igierhanex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igierhan2e1UnitTests", "igierhan2e1UnitTests\igierhan2e1UnitTests.csproj", "{BFEEE235-1A19-437D-B846-279F7D87F471}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igierhanex2f1", "igierhanex2f1\igierhanex2f1.csproj", "{49EFEBEE-E873-43E9-9F08-E948DBD36AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igierhan2fUnitTests", "igierhan2fUnitTests\igierhan2fUnitTests.csproj", "{6294310E-2966-494D-A971-717FA70F8C30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{BFEEE235-1A19-437D-B846-279F7D87F471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFEEE235-1A19-437D-B846-279F7D87F471}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFEEE235-1A19-437D-B846-279F7D87F471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EFEBEE-E873-43E9-9F08-E948DBD36AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EFEBEE-E873-43E9-9F08-E948DBD36AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EFEBEE-E873-43E9-9F08-E948DBD36AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EFEBEE-E873-43E9-9F08-E948DBD36AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6294310E-2966-494D-A971-717FA70F8C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6294310E-2966-494D-A971-717FA70F8C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6294310E-2966-494D-A971-717FA70F8C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6294310E-2966-494D-A971-717FA70F8C30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
